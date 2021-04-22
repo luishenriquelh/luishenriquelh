@@ -3,8 +3,8 @@
 </h1>
 
 <p align='center'>
-  A Developer PHP/Laravel and mobile React Native from Brasília, Brazil.
-  - :mortar_board: Sistema de Informação | Centro Universitário - UDF.
+  A Developer PHP/Laravel and mobile React Native from Brasília, Brazil.<br>
+  - :mortar_board: Sistema de Informação | Centro Universitário - UDF.<br>
   - :green_heart: Interesse: PHP, Laravel, HTML, CSS, JavaScript, React, React Native, Docker, Git e Node.js.
 </p>
 
@@ -24,12 +24,12 @@
 </p>
 
 <p align='center'>
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luishenriquelh&count_private=true&show_icons=true&theme=tokyonight)<br />
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luishenriquelh&count_private=true&show_icons=true&theme=tokyonight)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luishenriquelh&layout=compact&theme=tokyonight&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
-### :computer: Skills
 <p align="center">
+  ### :computer: Skills
     <img height="60" src="./assets/2132470731553750209-512.png" title="JavaScript" alt="JavaScript">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
     <img height="60" src="./assets/laravel-226015.png" title="JavaScript" alt="JavaScript">
@@ -46,9 +46,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-### :heavy_plus_sign: More Skills
-
-<p align="left">
+<p align="center">
+ ### :heavy_plus_sign: More Skills
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/react.svg" alt="react" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="sass" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/gulp.svg" alt="gulp" width="25" height="25" />
@@ -65,8 +64,9 @@
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/docker.svg" alt="Docker" width="25" height="25" />
 </p>
 
-### :iphone: Contact
-<p>
+
+<p align="center">
+  ### :iphone: Contact
     <a href="mailto:luishenriquelh.luis.lhsn@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:luishenriquelh.luis.lhsn@gmail.com">
     </a>
