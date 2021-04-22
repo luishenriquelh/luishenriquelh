@@ -26,7 +26,7 @@
 </p>
 <br>
 <p align='center'>
-  :computer: **Skills** <br><br>
+  :computer: Skills <br><br>
 </p>
 <p align="center">
     <img height="60" src="./assets/2132470731553750209-512.png" title="JavaScript" alt="JavaScript">
@@ -46,8 +46,7 @@
 </p>
 <br>
 <p align='center'>
-  **Languages and Tools:**
-  :rocket: **More Skills** <br><br>
+  :rocket: More Skills <br><br>
 </p>
 <p align="center">
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/react.svg" alt="react" width="25" height="25" />
@@ -66,8 +65,9 @@
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/docker.svg" alt="Docker" width="25" height="25" />
 </p>
 <br>
+**Contact**
 <p align='center'>
- :mailbox_with_no_mail: **Contact** <br><br>
+ :mailbox_with_no_mail: Contact <br><br>
 </p>
 <p align="center">
     <a href="mailto:luishenriquelh.luis.lhsn@gmail.com">
