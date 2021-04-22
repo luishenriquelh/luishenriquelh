@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Luis Henrique.
+### 💬, I'm Luis Henrique.
 
 - :mortar_board: Sistema de Informação | Centro Universitário - UDF.
 - 💙 Interesse: PHP, Laravel, HTML, CSS, JavaScript, React, React Native, Docker, Git e Node.js.
