@@ -62,9 +62,6 @@
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:luishenriquelh.luis.lhsn@gmail.com">
     </a>
     <a href="https://www.linkedin.com/in/luishenriquelh/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/luishenriquelh/">
-    </a>
-    <a href="https://www.linkedin.com/in/luishenriquelh/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/luishenrique.sn">
