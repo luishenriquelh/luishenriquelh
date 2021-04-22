@@ -1,7 +1,8 @@
 <h1 align='center'>Hi there 👋 I'm Luis Henrique 💬</h1>
 <h3 align="center">A passionate developer</h3>
 <p align='center'>
-  <img align="right" width="140" height="140" src="./assets/luish.fw.png">
+    <img width="50" height="50" src="./assets/luish.fw.png" title="JavaScript" alt="JavaScript">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
 <br>
 <p align='center'>
