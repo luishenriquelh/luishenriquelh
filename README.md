@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋 I'm Luis Henrique 💬</h1>
 <p align='center'>
-    <img width="100" height="100" src="./assets/luish.fw.png" title="JavaScript" alt="JavaScript">
+    <img width="120" height="120" src="./assets/luish.fw.png" title="JavaScript" alt="JavaScript">
 </p>
 <h3 align="center">A passionate Developer</h3>
 <p align='center'>
@@ -8,7 +8,6 @@
    :mortar_board: Sistema de Informação | Centro Universitário - UDF.<br>
    :green_heart: Interesse: PHP, Laravel, HTML, CSS, JavaScript, React, React Native, Docker, Git e Node.js.
 </p>
-<br>
 <br>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=luishenriquelh&show_icons=true&count_private=true&theme=dark" width="350"></a>
