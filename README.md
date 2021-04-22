@@ -1,18 +1,16 @@
 <h1 align='center'>Hi there 👋 I'm Luis Henrique 💬</h1>
 <h3 align="center">A passionate developer</h3>
-
+<p align='center'>
+  <img align="right" width="140" height="140" src="./assets/luish.fw.png">
+</p>
+<br>
 <p align='center'>
    :computer: A Developer PHP/Laravel and mobile React Native from Brasília, Brazil .<br>
    :mortar_board: Sistema de Informação | Centro Universitário - UDF.<br>
    :green_heart: Interesse: PHP, Laravel, HTML, CSS, JavaScript, React, React Native, Docker, Git e Node.js.
 </p>
 <br>
-<p align='center'>
-  <img align="right" width="140" height="140" src="./assets/luis.png">
-</p>
 <br>
-<br>
-
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=luishenriquelh&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
