@@ -21,11 +21,14 @@
 </p>
 <br>
 
-![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=luishenriquelh&show_icons=true&theme=blue-green)
-
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=luishenriquelh&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 <br>
-<p align="center">
+<p align='center'>
   :computer: Skills <br><br>
+</p>
+<p align="center">
     <img height="60" src="./assets/2132470731553750209-512.png" title="JavaScript" alt="JavaScript">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
     <img height="60" src="./assets/laravel-226015.png" title="JavaScript" alt="JavaScript">
@@ -40,11 +43,12 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="60" src="./assets/node-js-1174925.png" title="Node.js" alt="Node.js">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    
 </p>
 <br>
+<p align='center'>
+   :rocket: More Skills <br><br>
+</p>
 <p align="center">
- :rocket: More Skills <br><br>
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/react.svg" alt="react" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="sass" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/gulp.svg" alt="gulp" width="25" height="25" />
@@ -61,8 +65,10 @@
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/docker.svg" alt="Docker" width="25" height="25" />
 </p>
 <br>
-<p align="center">
+<p align='center'>
   :mailbox_with_no_mail: Contact<br><br>
+</p>
+<p align="center">
     <a href="mailto:luishenriquelh.luis.lhsn@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:luishenriquelh.luis.lhsn@gmail.com">
     </a>
