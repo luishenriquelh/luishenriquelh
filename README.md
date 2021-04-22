@@ -21,12 +21,11 @@
 </p>
 <br>
 <p align='center'>
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luishenriquelh&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luishenriquelh&layout=compact&theme=tokyonight&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=luishenriquelh&show_icons=true&theme=blue-green)
 </p>
 <br>
 <p align="center">
-  ## :computer: Skills
+  ## :computer: Skills <br>
     <img height="60" src="./assets/2132470731553750209-512.png" title="JavaScript" alt="JavaScript">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
     <img height="60" src="./assets/laravel-226015.png" title="JavaScript" alt="JavaScript">
