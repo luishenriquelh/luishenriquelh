@@ -1,6 +1,5 @@
-<h1 align='center'>
-  Hi there 👋 I'm Luis Henrique 💬
-</h1>
+<h1 align='center'>Hi there 👋 I'm Luis Henrique 💬</h1>
+<h3 align="center">A passionate developer</h3>
 
 <p align='center'>
    :computer: A Developer PHP/Laravel and mobile React Native from Brasília, Brazil .<br>
@@ -10,9 +9,6 @@
 <br>
 <p align='center'>
   <img align="right" width="150" height="150" src="https://www.pinclipart.com/picdir/big/571-5718253_golang-gopher-png-clipart.png">
-  <!--<a href="https://wa.me/5561982426988?text=Olá!%20Luis">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>&nbsp;&nbsp;-->
 </p>
 <br>
 
