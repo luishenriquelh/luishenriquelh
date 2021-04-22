@@ -8,8 +8,9 @@
 </p>
 <br>
 <p align='center'>
-  <img align="right" width="150" height="150" src="https://www.pinclipart.com/picdir/big/571-5718253_golang-gopher-png-clipart.png">
+  <img align="right" width="140" height="140" src="./assets/luis.png">
 </p>
+<br>
 <br>
 
 <p align='center'>
