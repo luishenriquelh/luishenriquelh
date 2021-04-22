@@ -9,9 +9,9 @@
 </p>
 <br>
 <p align='center'>
-  <!--<a href="https://wa.me/5561982426988?text=Olá!%20Alexandre">
+  <a href="https://wa.me/5561982426988?text=Olá!%20Luis">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>&nbsp;&nbsp;-->
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/luishenriquelh/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -26,7 +26,7 @@
 </p>
 <br>
 <p align='center'>
-  **:computer: Skills** <br><br>
+  :computer: **Skills** <br><br>
 </p>
 <p align="center">
     <img height="60" src="./assets/2132470731553750209-512.png" title="JavaScript" alt="JavaScript">
@@ -46,7 +46,7 @@
 </p>
 <br>
 <p align='center'>
-   **:rocket: More Skills** <br><br>
+  :rocket: **More Skills** <br><br>
 </p>
 <p align="center">
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/react.svg" alt="react" width="25" height="25" />
@@ -66,7 +66,7 @@
 </p>
 <br>
 <p align='center'>
-  **:mailbox_with_no_mail: Contact** <br><br>
+ :mailbox_with_no_mail: **Contact** <br><br>
 </p>
 <p align="center">
     <a href="mailto:luishenriquelh.luis.lhsn@gmail.com">
