@@ -65,7 +65,6 @@
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/docker.svg" alt="Docker" width="25" height="25" />
 </p>
 <br>
-**Contact**
 <p align='center'>
  :mailbox_with_no_mail: Contact <br><br>
 </p>
