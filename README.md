@@ -3,9 +3,9 @@
 </h1>
 
 <p align='center'>
-   - :computer: A Developer PHP/Laravel and mobile React Native from Brasília, Brazil .<br>
-  - :mortar_board: Sistema de Informação | **Centro Universitário - UDF**.<br>
-  - :green_heart: Interesse: PHP, Laravel, HTML, CSS, JavaScript, React, React Native, Docker, Git e Node.js.
+   :computer: A Developer PHP/Laravel and mobile React Native from Brasília, Brazil .<br>
+   :mortar_board: Sistema de Informação | Centro Universitário - UDF.<br>
+   :green_heart: Interesse: PHP, Laravel, HTML, CSS, JavaScript, React, React Native, Docker, Git e Node.js.
 </p>
 <br>
 <p align='center'>
