@@ -25,7 +25,7 @@
 </p>
 <br>
 <p align="center">
-  ## :computer: Skills <br>
+  :computer: Skills <br><br>
     <img height="60" src="./assets/2132470731553750209-512.png" title="JavaScript" alt="JavaScript">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
     <img height="60" src="./assets/laravel-226015.png" title="JavaScript" alt="JavaScript">
@@ -44,7 +44,7 @@
 </p>
 <br>
 <p align="center">
- ## :heavy_plus_sign: More Skills <br><br>
+ :heavy_plus_sign: More Skills <br><br>
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/react.svg" alt="react" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="sass" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/gulp.svg" alt="gulp" width="25" height="25" />
@@ -62,7 +62,7 @@
 </p>
 <br>
 <p align="center">
-  ## :iphone: Contact<br><br>
+  :iphone: Contact<br><br>
     <a href="mailto:luishenriquelh.luis.lhsn@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:luishenriquelh.luis.lhsn@gmail.com">
     </a>
