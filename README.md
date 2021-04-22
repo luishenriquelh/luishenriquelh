@@ -3,9 +3,9 @@
 </h1>
 
 <p align='center'>
-  :computer: A Developer PHP/Laravel and mobile React Native from Brasília, Brazil .<br>
-  :mortar_board: Sistema de Informação | Centro Universitário - UDF.<br>
-  :green_heart: Interesse: PHP, Laravel, HTML, CSS, JavaScript, React, React Native, Docker, Git e Node.js.
+   - :computer: A Developer PHP/Laravel and mobile React Native from Brasília, Brazil .<br>
+  - :mortar_board: Sistema de Informação | **Centro Universitário - UDF**.<br>
+  - :green_heart: Interesse: PHP, Laravel, HTML, CSS, JavaScript, React, React Native, Docker, Git e Node.js.
 </p>
 <br>
 <p align='center'>
@@ -26,7 +26,7 @@
 </p>
 <br>
 <p align='center'>
-  :computer: Skills <br><br>
+  **:computer: Skills** <br><br>
 </p>
 <p align="center">
     <img height="60" src="./assets/2132470731553750209-512.png" title="JavaScript" alt="JavaScript">
@@ -46,7 +46,7 @@
 </p>
 <br>
 <p align='center'>
-   :rocket: More Skills <br><br>
+   **:rocket: More Skills** <br><br>
 </p>
 <p align="center">
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/react.svg" alt="react" width="25" height="25" />
@@ -66,7 +66,7 @@
 </p>
 <br>
 <p align='center'>
-  :mailbox_with_no_mail: Contact<br><br>
+  **:mailbox_with_no_mail: Contact** <br><br>
 </p>
 <p align="center">
     <a href="mailto:luishenriquelh.luis.lhsn@gmail.com">
