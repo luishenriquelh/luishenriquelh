@@ -30,8 +30,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="60" src="./assets/css.png" title="CSS" alt="CSS">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="60" src="./assets/node-js-1174925.png" title="Node.js" alt="Node.js">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--     <img height="60" src="./assets/node-js-1174925.png" title="Node.js" alt="Node.js">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 </p>
 <br>
 <p align='center'>
@@ -39,18 +39,18 @@
 </p>
 <p align="center">
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/react.svg" alt="react" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="sass" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/gulp.svg" alt="gulp" width="25" height="25" />
+<!-- <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="sass" width="25" height="25" /> -->
+<!-- <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/gulp.svg" alt="gulp" width="25" height="25" /> -->
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/typescript.svg" alt="typescript" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/nodejs_alt.svg" alt="nodejs" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/nginx.svg" alt="nginx" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/netlify.svg" alt="netlify" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/heroku.svg" alt="heroku" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/circleci_light.svg" alt="circleci" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/folder-aws.svg" alt="aws" width="25" height="25" />
+<!-- <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/circleci_light.svg" alt="circleci" width="25" height="25" /> -->
+<!-- <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/folder-aws.svg" alt="aws" width="25" height="25" /> -->
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/gcp.svg" alt="gcp" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/azure.svg" alt="azure" width="25" height="25" />
+<!-- <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/azure.svg" alt="azure" width="25" height="25" /> -->
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/docker.svg" alt="Docker" width="25" height="25" />
 </p>
 <br>
