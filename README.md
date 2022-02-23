@@ -34,20 +34,20 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 </p>
 <br>
-<p align='center'>
+<!--<p align='center'>
   :rocket: More Skills <br><br>
-</p>
+</p>--!>
 <p align="center">
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/react.svg" alt="react" width="25" height="25" />
 <!-- <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="sass" width="25" height="25" /> -->
 <!-- <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/gulp.svg" alt="gulp" width="25" height="25" /> -->
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="25" height="25" />
+<!--<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="25" height="25" />--!>
 <!-- <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/circleci_light.svg" alt="circleci" width="25" height="25" /> -->
 <!-- <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/folder-aws.svg" alt="aws" width="25" height="25" /> -->
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/gcp.svg" alt="gcp" width="25" height="25" />
+<!--<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/gcp.svg" alt="gcp" width="25" height="25" />-->
 <!-- <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/azure.svg" alt="azure" width="25" height="25" /> -->
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/docker.svg" alt="Docker" width="25" height="25" />
-</p>
+<!--<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/docker.svg" alt="Docker" width="25" height="25" />-->
+</p>--!>
 <br>
 <p align='center'>
  :mailbox_with_no_mail: Contact <br><br>
