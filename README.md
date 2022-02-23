@@ -5,9 +5,9 @@
 </p>
 
 <p align='center'>
-   :computer: A Developer PHP/Laravel and mobile React Native from Brasília, Brazil .<br>
+   :computer: A Developer FullStack PHP/Laravel from Brasília, Brazil .<br>
    :mortar_board: Sistema de Informação | Centro Universitário - UDF.<br>
-   :green_heart: Interesse: PHP, Laravel, HTML, CSS, JavaScript, React, React Native, Docker, Git e Node.js.
+   :green_heart: Interesse: PHP, Laravel, HTML, CSS, JavaScript, React, Docker e Git.
 </p>
 <br>
 <p align='center'>
@@ -42,11 +42,6 @@
 <!-- <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="sass" width="25" height="25" /> -->
 <!-- <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/gulp.svg" alt="gulp" width="25" height="25" /> -->
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/typescript.svg" alt="typescript" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/nodejs_alt.svg" alt="nodejs" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/nginx.svg" alt="nginx" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/netlify.svg" alt="netlify" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/heroku.svg" alt="heroku" width="25" height="25" />
 <!-- <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/circleci_light.svg" alt="circleci" width="25" height="25" /> -->
 <!-- <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/folder-aws.svg" alt="aws" width="25" height="25" /> -->
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/gcp.svg" alt="gcp" width="25" height="25" />
