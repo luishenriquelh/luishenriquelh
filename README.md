@@ -36,9 +36,9 @@
 <br>
 <!--<p align='center'>
   :rocket: More Skills <br><br>
-</p>--!>
-<p align="center">
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/react.svg" alt="react" width="25" height="25" />
+</p>
+<p align="center">--!>
+<!-- <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/react.svg" alt="react" width="25" height="25" /> -->
 <!-- <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="sass" width="25" height="25" /> -->
 <!-- <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/gulp.svg" alt="gulp" width="25" height="25" /> -->
 <!--<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="25" height="25" />--!>
@@ -47,7 +47,6 @@
 <!--<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/gcp.svg" alt="gcp" width="25" height="25" />-->
 <!-- <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/azure.svg" alt="azure" width="25" height="25" /> -->
 <!--<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/docker.svg" alt="Docker" width="25" height="25" />-->
-</p>--!>
 <br>
 <p align='center'>
  :mailbox_with_no_mail: Contact <br><br>
@@ -63,7 +62,7 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>
 <p>
-
+</p>
 <!--
 **luishenriquelh/luishenriquelh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
