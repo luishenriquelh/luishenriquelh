@@ -7,7 +7,7 @@
 <p align='center'>
    :computer: A Developer FullStack PHP/Laravel from Brasília, Brazil .<br>
    :mortar_board: Sistema de Informação | Centro Universitário - UDF.<br>
-   :green_heart: Interesse: PHP, Laravel, HTML, CSS, JavaScript, React, Docker e Git.
+   :green_heart: Interesse: Node, PHP, Laravel, HTML, CSS, JavaScript, React, Docker e Git.
 </p>
 <br>
 <p align='center'>
