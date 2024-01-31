@@ -1,6 +1,5 @@
 <h1 align='center'>Hi there 👋 I'm Luis Henrique 💬</h1>
 <p align='center'>
-    <img width="120" height="120" src="./assets/luish.fw.png"><br>
     <h3 align="center">A passionate Developer</h3>
 </p>
 
