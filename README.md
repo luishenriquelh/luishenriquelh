@@ -4,9 +4,9 @@
 </p>
 
 <p align='center'>
-   :computer: A Developer FullStack PHP/Laravel from Brasília, Brazil .<br>
+   :computer: A Developer FullStack from Brasília, Brazil .<br>
    :mortar_board: Sistema de Informação | Centro Universitário - UDF.<br>
-   :green_heart: Interesse: Node, PHP, Laravel, HTML, CSS, JavaScript, React, Docker e Git.
+   :green_heart: Interesse: Node, PHP, Laravel, JavaScript, Flutter, Docker e Git.
 </p>
 <br>
 <p align='center'>
@@ -25,10 +25,6 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
     <img height="60" src="./assets/javascript.png" title="JavaScript" alt="JavaScript">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       
-    <img height="60" src="./assets/html.png" title="HTML" alt="HTML">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="60" src="./assets/css.png" title="CSS" alt="CSS">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 <!--<p align='center'>
