@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋 I'm Luis Henrique 💬</h1>
 <p align='center'>
-    <h3 align="center">A passionate Developer</h3>
+    <h3 align="center">Developer</h3>
 </p>
 
 <p align='center'>
